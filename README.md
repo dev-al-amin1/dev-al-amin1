@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co.com/4g3SgbXt/Chat-GPT-Image-Jul-13-2026-11-39-44-PM.png" alt="cover"/>
 <h1 align="center">Hi 👋, I'm MD ALAMIN MIAH</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer Specializing In Responsive Websites, Custom Web Development, Wordpress And Modern Digital Solutions</h3>
 
